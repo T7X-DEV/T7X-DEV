@@ -1,4 +1,4 @@
-  # kirbix
+  # kirbix dev | front-end
   - name: kirbix
   # 🇫🇷 | nationalité   
   nationality: francais
