@@ -1,8 +1,8 @@
   # kirbix 
-  -name: kirbix
+  - name: kirbix
   # nationalité | 🇫🇷 
   nationality: francais
-  #💻 languages programmation | langages programming
+  # 💻 languages programmation | langages programming
   - languages: HTML CSS PYTHON
   # tools work | outils travailles
   - framework: flask
