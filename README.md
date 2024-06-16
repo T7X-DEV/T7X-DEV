@@ -1,6 +1,6 @@
   # kirbix 
   - name: kirbix
-  # nationalité | 🇫🇷 
+  # 🇫🇷 | nationalité   
   nationality: francais
   # 💻 languages programmation | langages programming
   - languages: HTML CSS PYTHON
