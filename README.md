@@ -5,6 +5,6 @@
   # 💻 | langages programming
   - languages: HTML CSS PYTHON
   # 🛠️​ tools work | outils travailles
-  - framework: flask
+  - framework: flask, selenuim , discord
   # 🌐network | reseaux 
  - network: (https://github.com/kirbix-dev) (https://codepen.io/kirbix) (https://www.reddit.com/user/kirbix-dev)
