@@ -4,7 +4,7 @@
 # Kirbix - Front-End Developer
 
 ### 🇫🇷 Nationality: French  
-Hello! I'm **Kirbix**, a passionate front-end developer with experience in both web and software development. I specialize in creating clean, responsive, and user-friendly designs, with a strong focus on functionality.
+Hello! I'm **Kirbix**, Passionate front-end developer with experience in web development. I specialize in creating clean login, registration, and homepage designs, with a strong focus on functionality
 
 ---
 
