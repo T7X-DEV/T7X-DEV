@@ -43,9 +43,5 @@ Hello! I'm **Kirbix**, a passionate front-end developer with experience in web d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbix-dev&layout=compact&theme=radical)
 
 ---
-
-![Footer](https://via.placeholder.com/1200x100?text=test)
-
 ---
 
-### test ?
