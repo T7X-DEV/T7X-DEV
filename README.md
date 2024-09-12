@@ -1,8 +1,6 @@
 
 ---
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Kirbix+GitHub+Profile)
-
 # Kirbix - Front-End Developer
 
 ### 🇫🇷 Nationality: French  
@@ -46,7 +44,7 @@ Hello! I'm **Kirbix**, a passionate front-end developer with experience in web d
 
 ---
 
-![Footer](https://via.placeholder.com/1200x100?text=Thank+You+For+Visiting+My+Profile)
+![Footer](https://via.placeholder.com/1200x100?text=test)
 
 ---
 
