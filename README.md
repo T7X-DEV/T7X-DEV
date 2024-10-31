@@ -29,16 +29,10 @@ Hello! I'm Kirbix, a passionate front-end developer with experience in web devel
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Modules & Libraries:
-- ![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-- ![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=green)
-- ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-0A0A0A?style=for-the-badge)
 
-### Currently Learning Modules & Libraries:
+### Currently Libraries:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Appium](https://img.shields.io/badge/Appium-4B4B4B?style=for-the-badge&logo=appium&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 ## 🌐 Find Me Online
