@@ -44,9 +44,9 @@ Hello! I'm Kirbix, a passionate front-end developer with experience in web devel
 
 ## 📊 GitHub Stats
 
-![Kirbix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirbix-dev&show_icons=true&theme=radical)  
-![t](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbix-dev&layout=compact&theme=radical)
-
+![j](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirbix-dev&theme=tokyonight)  
+[![j](https://github-readme-streak-stats.herokuapp.com?user=kirbix-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![b](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirbix-dev&theme=tokyonight)
 ---
 
 ![hi](https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif)
