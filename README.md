@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://github.com/kirbix-dev/test/blob/main/Cut%20duration%20of%20animated%20GIF.gif"width="1000"/>
 </p>
-## about me
+
+## 💜 about me
 - 🎉 I'm **16 years old**
 - 🌷 **this account is for little projects**
 - 📫 Contact me: [Instagram](https://instagram.com/banaxou)
