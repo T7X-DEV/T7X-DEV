@@ -1,15 +1,11 @@
 <h1 align="center">hi I'm T7X (ovax)</h1>
-<p align="center">i love kirby</p>
-
+<p align="center">i love kirby and arcane</p>
 ---
 
+## 
 <p align="center">
-  <img src="https://media.tenor.com/L4TD4MWFy40AAAAi/kirby.gif" alt="kirby gif" />
+  <img src="https://github.com/kirbix-dev/test/blob/main/Cut%20duration%20of%20animated%20GIF.gif"width="1000"/>
 </p>
-
----
-
-## 🌠 About Me
 
 - 🎉 I'm **16 years old**
 - 🌷 **this account is for little projects**
@@ -17,7 +13,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,python"/>
