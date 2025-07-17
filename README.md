@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/kirbix-dev/test/blob/main/Cut%20duration%20of%20animated%20GIF.gif"width="1000"/>
+  <img src="https://github.com/T7X-DEV/T7X-DEV/blob/main/arcx.gif"width="1000"/>
 </p>
 
 ## 💜 about me
