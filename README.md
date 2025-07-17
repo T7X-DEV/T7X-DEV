@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6a/cd/07/6acd0780a4c693b2cf8da52b5c44b18e.gif" alt="lain2" width="400"/>
+  <img src="https://i.pinimg.com/originals/6a/cd/07/6acd0780a4c693b2cf8da52b5c44b18e.gif"width="1000"/>
 </p>
 
 ---
@@ -34,15 +34,15 @@
 <h2 align="center">🌍 Find me online</h2>
 <p align="center">
   <a href="https://instagram.com/banaxou" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banaxou" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="120" width="120"/>
   </a>
   <a href="https://github.com/banaxou" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="banaxou-dev" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"height="120" width="120"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif" alt="kirby dancing" />
+  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif"/>
 </p>
