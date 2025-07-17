@@ -1,5 +1,5 @@
 <h1 align="center">I'm T7X (ovax)</h1>
-<p align="center">i love kirby and arcane 🩷❤️</p>
+<p align="center">i love kirby and arcane 🩷💜</p>
 
 ---
 
