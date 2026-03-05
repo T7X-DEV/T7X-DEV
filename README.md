@@ -23,11 +23,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6a/cd/07/6acd0780a4c693b2cf8da52b5c44b18e.gif"width="1000"/>
-</p>
-
----
-
-<p align="center">
   <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif"/>
 </p>
